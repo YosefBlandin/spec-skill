@@ -1,0 +1,19 @@
+{
+  "spec": "DEMO-9-big", "repo": "api", "brief": "pr-api.md@locked-v1",
+  "tool": "", "model": "",
+  "baseline": { "tests": "", "lint": "", "typecheck": "" },
+  "tasks": [
+    { "id": "API-0", "status": "done", "commit": "", "evidence": [], "review": "" },
+    { "id": "API-1", "status": "done", "commit": "", "evidence": [], "review": "pass" },
+    { "id": "API-2", "status": "in_progress", "commit": "", "evidence": [], "review": "" },
+    { "id": "API-3", "status": "todo", "commit": "", "evidence": [], "review": "" },
+    { "id": "API-4", "status": "blocked", "commit": "", "evidence": [], "review": "" },
+    { "id": "API-5", "commit": "", "evidence": [], "review": "" }
+  ],
+  "deviations": [
+    { "date": "2026-10-01", "task": "API-4", "from": "D-6", "proposal": "Keep the old column", "decidedBy": "", "newDecision": "" },
+    { "date": "2026-09-30", "task": "API-2", "from": "D-3", "proposal": "Split the job", "decidedBy": "user", "newDecision": "D-9" },
+    { "date": "", "task": "", "from": "", "proposal": "", "decidedBy": "", "newDecision": "" }
+  ],
+  "surprises": []
+}

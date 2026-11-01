@@ -1,0 +1,8 @@
+{
+  "spec": "good-m", "repo": "web", "brief": "pr-web.md@draft",
+  "tool": "", "model": "",
+  "baseline": { "tests": "", "lint": "", "typecheck": "" },
+  "tasks": [ { "id": "WEB-0", "status": "todo", "commit": "", "evidence": [], "review": "" } ],
+  "deviations": [],
+  "surprises": []
+}

@@ -1,0 +1,6 @@
+{
+  "spec": "small-fix", "repo": "api", "brief": "spec.md@locked-v1",
+  "tasks": [ { "id": "API-0", "status": "done" }, { "id": "API-1", "status": "done" } ],
+  "deviations": [ { "date": "", "task": "", "from": "", "proposal": "", "decidedBy": "", "newDecision": "" } ],
+  "surprises": []
+}

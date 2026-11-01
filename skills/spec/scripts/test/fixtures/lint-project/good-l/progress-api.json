@@ -1,0 +1,8 @@
+{
+  "spec": "good-l", "repo": "api", "brief": "pr-api.md@draft",
+  "tool": "", "model": "",
+  "baseline": { "tests": "", "lint": "", "typecheck": "" },
+  "tasks": [ { "id": "API-0", "status": "todo", "commit": "", "evidence": [], "review": "" } ],
+  "deviations": [],
+  "surprises": []
+}

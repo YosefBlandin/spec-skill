@@ -1,0 +1,8 @@
+{
+  "spec": "lint-noprofile", "repo": "app", "brief": "pr-app.md@draft",
+  "tool": "", "model": "",
+  "baseline": { "tests": "", "lint": "", "typecheck": "" },
+  "tasks": [ { "id": "APP-0", "status": "todo", "commit": "", "evidence": [], "review": "" } ],
+  "deviations": [],
+  "surprises": []
+}

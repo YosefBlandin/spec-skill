@@ -1,0 +1,13 @@
+{
+  "spec": "{{spec}}",
+  "repo": "{{repo}}",
+  "brief": "",
+  "tool": "",
+  "model": "",
+  "baseline": { "tests": "", "lint": "", "typecheck": "" },
+  "tasks": [
+    { "id": "{{prefix}}-0", "status": "todo", "commit": "", "evidence": [], "review": "" }
+  ],
+  "deviations": [],
+  "surprises": []
+}
